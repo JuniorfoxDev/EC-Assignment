@@ -1,5 +1,7 @@
 # Engineer's Craddle Task to Create a Responsive Website
 This is a responsive website built with React and TailwindCSS for the EC hiring assignment. The Website features a registration page,login page and a Product Listing page and implemented AJAX search and client-side pagination.
+
+
 #API 
 The website uses the Engineer's Craddle provided API, which is 
 https://intern-task-api.bravo68web.workers.dev/
